@@ -1,5 +1,6 @@
-### Hi there 👋
+### Oie 👋
 
+### Meu nome é Lucas e estou aprendendo a programar
 <!--
 **Lucas26022008/Lucas26022008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
