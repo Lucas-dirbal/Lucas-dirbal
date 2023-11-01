@@ -7,4 +7,5 @@
 #### 💬 Gosto de conversar sobre volei
 #### ❄️ Amo o frio
 
+![](https://media.tenor.com/P49xhh2DMcMAAAAd/fortnite-funny-dance.gif)
 ![](https://media.tenor.com/mWwUc47WSzwAAAAC/welcome-greetings.gif)
