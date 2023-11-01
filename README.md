@@ -7,7 +7,4 @@
 #### 💬 Gosto de conversar sobre volei
 #### ❄️ Amo o frio
 
-![](https://media.tenor.com/j4JClNnYfdwAAAAd/roblox-oof.gif)
-![](https://media.tenor.com/va4X22k9bMUAAAAC/roblox-da-hood.gif)
-![](https://media.tenor.com/OhDpotoohNgAAAAC/horror-halloween.gif)
-![](https://media.tenor.com/h6emtmggDDoAAAAC/noob-needs-robux-roblox.gif)
+![](https://media.tenor.com/mWwUc47WSzwAAAAC/welcome-greetings.gif)
