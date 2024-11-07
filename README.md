@@ -3,4 +3,3 @@
 ## ✨ 2º ano ADS
 
 ### Colegio Estadual Professora Reni Correia Gamper
-![](https://c.tenor.com/AQ6lqIkGTgQAAAAC/programmer-programming.gif)
