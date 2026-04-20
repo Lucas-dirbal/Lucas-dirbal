@@ -89,5 +89,14 @@ class Lucas extends Developer {
     String objetivo = "Criar soluções úteis e evoluir cada vez mais como desenvolvedor";
 }
 ```
+<p align="left">
+  <a href="https://github.com/lucas-dirbal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://instagram.com/lucas.dirbal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/lucas-dirbal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer"/>
